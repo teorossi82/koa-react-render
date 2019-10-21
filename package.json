@@ -16,7 +16,15 @@
         "react",
         "render server side"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/teorossi82/koa-react-render.git"
+    },
     "author": "Matteo Rossi <teorossi82@yahoo.it>",
+    "bugs": {
+        "url": "https://github.com/teorossi82/koa-react-render/issues"
+    },
+    "homepage": "https://github.com/teorossi82/koa-react-render#readme",
     "license": "MIT",
     "dependencies": {
         "react": "16.4.0",
